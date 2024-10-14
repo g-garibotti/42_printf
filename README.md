@@ -45,7 +45,7 @@ This project is a recreation of the standard C library's `printf` function. The 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ft_printf.git
+   git clone https://github.com/g-garibotti/ft_printf.git
    ```
 2. Navigate to the project directory:
    ```
@@ -67,12 +67,6 @@ int main() {
     ft_printf("Hello, %s! The answer is %d.\n", "world", 42);
     return 0;
 }
-```
-
-Compile your program with:
-
-```
-gcc -o myprogram myprogram.c -L. -lftprintf
 ```
 
 ## Implementation Details
@@ -104,8 +98,3 @@ Key algorithms and data structures used:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-

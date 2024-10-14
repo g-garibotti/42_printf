@@ -1,7 +1,6 @@
 # ft_printf
 
 ![C](https://img.shields.io/badge/language-C-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A custom implementation of the C standard library's `printf` function.
 
